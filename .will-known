@@ -1,0 +1,8 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.mountaindawn.twa",
+    "sha256_cert_fingerprints": ["8226F9279123AB5769071BA4B9BCE5DD6C274E8A6E95744DBDD639D17DA2FC8C"]
+  }
+}]

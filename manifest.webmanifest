@@ -1,0 +1,19 @@
+{
+  "name": "Mountain Dawn — Long Ridge Campaign",
+  "short_name": "Mountain Dawn",
+  "description": "A Contra-style run-and-gun arcade game: Kurdish defenders hold the ridge against ISIS forces across five sectors. Fictional, non-graphic, offline-capable.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "fullscreen",
+  "display_override": ["fullscreen", "standalone", "minimal-ui"],
+  "orientation": "landscape",
+  "background_color": "#0a1117",
+  "theme_color": "#101b23",
+  "categories": ["games", "entertainment"],
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icons/maskable-192.png", "sizes": "192x192", "type": "image/png", "purpose": "maskable" },
+    { "src": "icons/maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
